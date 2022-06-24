@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Zen+Kurenaido&display=swap');
 
 :root {
-  --color-primary: rgb(204, 203, 219);
-  --color-secondary: rgb(34, 28, 36);
-  --color-img-bg: rgb(60, 45, 65);
+  --color-primary: rgb(0, 0, 0);
+  --color-secondary: rgb(227, 247, 77);
+  --color-img-bg: rgb(108, 255, 120);
 }
 
 body {
